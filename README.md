@@ -29,7 +29,7 @@
 ## 🛠️ Keahlian & Teknologi
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,laravel,php,python,javascript,html,css,git,vscode,linux,kali,C++,C#,C,arduino&perline=6" />
+  <img src="https://skillicons.dev/icons?i=flutter,laravel,php,python,javascript,html,css,git,vscode,linux,kali,cpp,cs,c,nextjs,prisma,bootstrap,firebase,mysql,arduino&perline=6" />
 </p>
 
 ---
