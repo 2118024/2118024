@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/USERNAME_GITHUB_ANDA">
-    <img src="https://komarev.com/ghpvc/?username=USERNAME_GITHUB_ANDA&color=blueviolet&style=flat-square&label=Profile+Visitors" alt="Visitor Count" />
+  <a href="https://github.com/laodedupe">
+    <img src="https://komarev.com/ghpvc/?username=laodedupe&color=blueviolet&style=flat-square&label=Profile+Visitors" alt="Visitor Count" />
   </a>
-  <a href="https://linkedin.com/in/USERNAME_ANDA">
+  <a href="https://linkedin.com">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:emailanda@gmail.com">
@@ -21,7 +21,7 @@
 ## 👨‍💻 Tentang Saya
 
 * 🔭 Saya seorang mahasiswa IT yang aktif membangun aplikasi **Full-Stack (Laravel & Flutter)** serta bereksperimen dengan **Sistem IoT**.
-* ⚡ Hobi saya meliputi modifikasi sistem mobile, kustomisasi perangkat lunak, dan eksplorasi keamanan jaringan.
+* ⚡ Hobi saya meliputi modifikasi sistem seluler, kustomisasi perangkat lunak, dan eksplorasi keamanan jaringan.
 * 🌱 Saat ini sedang fokus memperdalam arsitektur perangkat lunak dan pengembangan sistem cerdas berbasis mikrokontroler.
 
 ---
@@ -29,7 +29,6 @@
 ## 🛠️ Keahlian & Teknologi
 
 <p align="center">
-  <!-- Bahasa & Framework -->
   <img src="https://skillicons.dev/icons?i=flutter,laravel,php,python,javascript,html,css,git,vscode,linux,kali,arduino&perline=6" />
 </p>
 
@@ -38,13 +37,13 @@
 ## 📊 Statistik & Kontribusi GitHub
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_ANDA&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_ANDA&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=laodedupe&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laodedupe&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-### 🐍 Snake Contribution Game (Gaya Unik ala Pacman/Snake)
+### 🐍 Snake Contribution Game
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME_GITHUB_ANDA/USERNAME_GITHUB_ANDA/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/laodedupe/laodedupe/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
