@@ -23,7 +23,7 @@ Mahasiswa IT yang fokus memperdalam arsitektur perangkat lunak dan sistem cerdas
 
 > Ganti tiga baris di bawah ini dengan repo nyata Anda — ini bagian yang paling dilihat orang, jangan biarkan placeholder.
 
-**[Nama Proyek 1](https://github.com/GANTI/repo1)**
+**[Nama Proyek 1](https://de-x-converter-pro-max-yddu.vercel.app/)**
 Deskripsi satu baris: masalah apa yang diselesaikan, bukan cuma tech stack.
 `Laravel` `MySQL` `REST API`
 
