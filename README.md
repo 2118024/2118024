@@ -12,7 +12,15 @@
 ## 🔭 **About Me**
 ```json
 {
-  "status": "IT Undergraduate Student & Developer",
-  "core_focus": ["Software Architecture", "Full-Stack Development", "IoT Systems"],
-  "explorations": ["Mobile OS Customization", "Network Infrastructure Security"]
+  "status": "IT Undergraduate Student & Junior Developer",
+  "core_focus": [
+    "Full-Stack Web & Mobile Development",
+    "IoT Systems & Microcontroller Automation",
+    "Software Architecture & API Design"
+  ],
+  "explorations": [
+    "Mobile OS Customization & Kernel Tuning",
+    "Network Infrastructure Security & Penetration Testing"
+  ],
+  "philosophy": "Bridging the gap between software logic and physical hardware intelligence."
 }
